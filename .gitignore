@@ -11,3 +11,9 @@ __pycache__/
 
 # Otros archivos o directorios  
 *.log
+
+# Ignorar checkpoints de Jupyter en el directorio lab
+lab/.ipynb_checkpoints/
+
+# Ignorar archivos compilados dentro de lab/lib
+lab/lib/**/*.pyc
