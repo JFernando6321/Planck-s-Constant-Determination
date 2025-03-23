@@ -1,0 +1,13 @@
+# Archivos compilados y cache de Python
+__pycache__/
+*.pyc
+
+# Checkpoints de Jupyter Notebook
+.ipynb_checkpoints/
+
+# Archivos de entorno virtual y configuraciones sensibles
+.env
+*.env
+
+# Otros archivos o directorios  
+*.log
